@@ -3,4 +3,4 @@ Global Redundancy and Relevance Optimization in Orthogonal Regression for Embedd
 
 Please run the code "demo.m"
 
-![image](https://github.com/MLFS-GRROOR/GRROOR/blob/main/AP_Neme.png）
+![AP_Neme](https://github.com/MLFS-GRROOR/GRROOR/blob/main/AP_Neme.png）
